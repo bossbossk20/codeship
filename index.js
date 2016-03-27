@@ -10,7 +10,7 @@ var assert = require('assert')
 describe('check cal function', function () {
   describe('cal()', function () {
     it('should return 3', function () {
-      assert.equal(cal(a, b), 4)
+      assert.equal(cal(a, b), 3)
     })
   })
 })
