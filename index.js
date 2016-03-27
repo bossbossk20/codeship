@@ -1,7 +1,7 @@
 var a = 1
 var b = 2
-cal(a, b)
-console.log(cal(a, b))
+cal()
+console.log(cal())
 function cal () {
   return a + b
 }
